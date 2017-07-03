@@ -1,3 +1,11 @@
 # Radio
 rild.libargs=-d /dev/smd0
 rild.libpath=/system/lib/libsec-ril.so
+
+# hardware info
+ro.device.chipset=Qualcomm Snapdragon 800 MSM8974 2.3GHz
+ro.device.cpu=2.3GHz quad-core Krait
+ro.device.gpu=Qualcomm Adreno 330
+ro.device.rear_cam=13 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=1080x1920

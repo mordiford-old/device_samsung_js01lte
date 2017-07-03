@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "LineageOS/android_device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common"
+  },
+  {
+    "repository": "kyasu/android_kernel_samsung_msm8974",
+    "target_path": "kernel/samsung/msm8974"
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport"
+  }
+]
